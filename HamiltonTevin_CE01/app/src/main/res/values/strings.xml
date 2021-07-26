@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HamiltonTevin_CE01</string>
+   <string name="birthday">BIRTHDAY</string>
+    <string name="birth_date">Febuary,13th</string>
+    <string name="hometown">HOMETOWN</string>
+    <string name="home_town">Niagara Falls,NY</string>
+    <string name="hobbies">HOBBIES</string>
+    <string name="video_gmaes">Video Games</string>
+    <string name="movies">Movies</string>
+    <string name="Shooting">Shooting Guns</string>
+    <string name="bio">BIO</string>
+    <string name="bio_info">Hi i was born in Niagara Falls,NY. I use to wrestle in high school.Shortly  after high school i join the Marines Corps and went in as a Rifleman in the Infantry.After 4 years of service i decide to go back to school at FullSail and planned on moving totexas after graduation</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="constraint_layout">constraint layout</string>
+    <string name="name">Tevin Hamilton</string>
+ <string name="todo">TODO</string>
+</resources>
